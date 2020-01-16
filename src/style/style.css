@@ -1,0 +1,144 @@
+.wrapper{
+    width: 100%;
+    height: auto;
+}
+
+
+.warna{
+    background-color: red;
+  }
+.logo{
+    width: 200px;
+  }
+.header{
+    background-color: red;
+    height: 70px;
+  }
+.toggler{
+    background-color: transparent;
+  }
+ 
+.sliderimage{
+    margin-top: 50px;
+  }
+.slider{
+    background-color: #f2f2f2);
+    height: auto;
+    margin-top: -50px;
+  }
+.slide{
+    padding-top: 30px;
+  }
+.notive{
+    margin-top: 20px;
+  }
+.danger{
+    background-color: rgb(186,3,2) !important;
+    
+  }
+ 
+.info{}
+
+.slide{
+    margin-bottom: 20px;
+  }
+ 
+ 
+  @media only screen and (max-width: 480px) {
+    .slider{
+      background-color: rgb(186,3,2);
+      height: 90px;
+    }
+  }
+
+  .img-news{
+      width: 20%;
+      margin : 30px 0px 0px 0px;
+      
+
+  }
+
+  .content-detail{
+    width: 75%;
+    float: right;
+  }
+
+  .item-news{
+      text-decoration: none;
+      width: 100%;
+      color: black;
+      margin-top: 20px;
+      display: inline-block;
+      border-radius: 5px;
+
+  }
+
+  .item-news:hover{
+    opacity: 0.8 ;
+    color: grey;
+
+  }
+  .title{
+      font-size: 20px;
+      font-weight: 700;
+      margin-bottom: 0px;
+  }
+  .date-create{
+      font-size: 10px;
+      margin-bottom: 0px;
+  }
+
+  .desc{
+      font-size: 12px;
+      margin-top: 0px;
+  }
+
+  .content-name{
+      font-size: 16px;
+      display: inline;
+      font-weight: 700;
+      margin-top: 5px;
+
+  }
+
+  .content-name a{
+      font-size: 12px;
+
+  }
+
+.row{
+    height: auto;
+}
+
+.navbar{
+    width: 100%;
+}
+
+.carousel-item img{
+    height: 640px;
+}
+
+.card{
+    width: 400px;
+    display: block;
+    float: left;
+    margin: 20px 100px 20px 50px;
+}
+
+
+.container-footer{
+    height: 100px;
+    background: darkslategray;
+    text-align: center;
+    vertical-align: bottom;
+}
+
+.row-footer{
+    color:black;
+    vertical-align: text-bottom;
+}
+
+.row-contact{
+    margin: auto;
+    width: 100%;
+}
